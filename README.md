@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rupesh%20Reddy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20|%20MLOps%20|%20AI%20Systems%20Builder&descSize=18&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rupesh%20Reddy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Ship&descSize=18&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI+systems+that+actually+work+%F0%9F%94%A7;MLOps+%7C+Reinforcement+Learning+%7C+DevOps;From+model+training+to+production+deployment;Open+source+contributor+%26+hackathon+builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=I+build+things+that+work+%F0%9F%94%A7;Python+%7C+JavaScript+%7C+Cloud+%7C+ML;Full+stack+to+full+pipeline;Open+source+contributor+%26+hackathon+builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 class RupeshReddy:
     def __init__(self):
         self.university = "IIIT Kottayam"
-        self.focus = ["Machine Learning", "MLOps", "AI Agents", "DevOps"]
+        self.focus = ["Software Dev", "Machine Learning", "MLOps", "DevOps"]
         self.languages = ["Python", "JavaScript"]
         self.current = "Building RL environments for OpenEnv Hackathon"
     
