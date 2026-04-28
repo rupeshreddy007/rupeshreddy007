@@ -1,166 +1,130 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=250&section=header&text=Rupesh%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20@%20IIIT%20Kottayam%20%E2%80%A2%20Building%20software%20that%20ships&descSize=16&descAlignY=58&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header)
 
-<a href="https://github.com/rupeshreddy007?tab=repositories"><img src="https://img.shields.io/badge/18+_Repos-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/rupeshreddy007"><img src="https://img.shields.io/badge/129+_Contributions-161b22?style=for-the-badge&logo=githubactions&logoColor=58a6ff" /></a>
-<img src="https://komarev.com/ghpvc/?username=rupeshreddy007&color=161b22&style=for-the-badge&label=Visitors" />
+# Rupesh Reddy
 
-<br/><br/>
+**Computer Science** · IIIT Kottayam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=%24+whoami;Software+Dev+%7C+ML+Engineer+%7C+DevOps+%7C+Builder+of+things)](https://git.io/typing-svg)
+Building software end-to-end — from web apps and ML pipelines to DevOps and AI agent environments.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/rupeshreddy007)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupeshreddy007)
+[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:rupeshreddy007@gmail.com)
 
 </div>
 
-<br/>
+---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+### Skills
 
-### `> cat about.txt`
+**Languages** &nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-```yaml
-name: Rupesh Reddy
-university: IIIT Kottayam
-status: Building RL environments @ OpenEnv Hackathon
+**Web & Backend** &nbsp;&nbsp; ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white)
 
-interests:
-  - Software Engineering
-  - Machine Learning & MLOps
-  - DevOps & Infrastructure
-  - AI Agent Environments
+**ML & Data** &nbsp;&nbsp; ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-philosophy: "Ship it. Then make it better."
-```
-
-<br clear="right"/>
+**DevOps & Tools** &nbsp;&nbsp; ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-<div align="center">
-
-### `> ls skills/`
-
-<br/>
+### Featured Work
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/>
-<sub><b>Python</b></sub>
+<td width="50%">
+
+**🔬 AI Agent Environments** — *OpenEnv Hackathon*
+
+Built 4 reinforcement learning environments with `step()` / `reset()` / `state()` APIs that AI agents train on in real time.
+
+[![OpenEnv](https://img.shields.io/badge/-OpenEnv_Hackathon-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/OpenEnv_hackathon)
+[![Livepatch](https://img.shields.io/badge/-Livepatch_Env-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/livepatch-env)
+[![Merge](https://img.shields.io/badge/-Merge_Conflict_Env-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/merge-conflict-env)
+[![Cyber](https://img.shields.io/badge/-Cyber_Incident_Response-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/openEnv_R2_Cyber_Incident_Response)
+
+`Python` `Docker` `Reinforcement Learning` `REST APIs`
+
 </td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>
-<sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>
-<sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>
-<sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/>
-<sub><b>Flask</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>
-<sub><b>Docker</b></sub>
+<td width="50%">
+
+**⚙️ MLOps Pipeline** — *Customer Churn Prediction*
+
+End-to-end ML pipeline with automated training, evaluation, and deployment using Jenkins CI/CD.
+
+[![Churn](https://img.shields.io/badge/-View_Repo-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/customer-churn-mlops-pipeline)
+
+`Python` `Jenkins` `scikit-learn` `MLOps`
+
 </td>
 </tr>
 <tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br/>
-<sub><b>Jenkins</b></sub>
+<td width="50%">
+
+**🧠 RAG Conversational AI**
+
+Retrieval-augmented generation system that answers questions from YouTube video transcripts using LLM embeddings.
+
+[![RAG](https://img.shields.io/badge/-View_Repo-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/RAG-based-Conversational-AI-over-yt-Transcripts)
+
+`Python` `LLMs` `RAG` `NLP`
+
 </td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>
-<sub><b>Git</b></sub>
+<td width="50%">
+
+**🎬 Semantic Movie Recommendations**
+
+Meaning-based movie search using NLP embeddings — finds movies by intent, not just keywords.
+
+[![Movies](https://img.shields.io/badge/-View_Repo-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/Semantic-Movie-Recommendation-System-)
+
+`Python` `NLP` `Embeddings`
+
 </td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/>
-<sub><b>Linux</b></sub>
+</tr>
+<tr>
+<td width="50%">
+
+**📚 EduBond**
+
+Full-stack education platform for student collaboration and resource sharing.
+
+[![EduBond](https://img.shields.io/badge/-View_Repo-58a6ff?style=flat-square)](https://github.com/rupeshreddy007/EduBond)
+
+`JavaScript` `Node.js` `Full Stack`
+
 </td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br/>
-<sub><b>Scikit-learn</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br/>
-<sub><b>PyTorch</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/>
-<sub><b>VS Code</b></sub>
+<td width="50%">
+
+**📋 More Projects**
+
+[![All Repos](https://img.shields.io/badge/-See_all_18+_repositories_→-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/rupeshreddy007?tab=repositories)
+
+`Jenkins ML Pipeline` · `MLOps Lab` · `Fitness Tracker` · `Complaint Portal` · `Pyschedulize`
+
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
+
+### GitHub Overview
 
 <div align="center">
 
-### `> cat projects.json | jq '.featured[]'`
-
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rupeshreddy007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=rupeshreddy007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 </div>
 
-<details open>
-<summary><b>🤖 AI & Reinforcement Learning Environments</b></summary>
 <br/>
-
-<a href="https://github.com/rupeshreddy007/OpenEnv_hackathon">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=OpenEnv_hackathon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rupeshreddy007/livepatch-env">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=livepatch-env&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rupeshreddy007/merge-conflict-env">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=merge-conflict-env&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rupeshreddy007/openEnv_R2_Cyber_Incident_Response">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=openEnv_R2_Cyber_Incident_Response&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</details>
-
-<details open>
-<summary><b>⚙️ MLOps & Software Engineering</b></summary>
-<br/>
-
-<a href="https://github.com/rupeshreddy007/customer-churn-mlops-pipeline">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=customer-churn-mlops-pipeline&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rupeshreddy007/RAG-based-Conversational-AI-over-yt-Transcripts">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=RAG-based-Conversational-AI-over-yt-Transcripts&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rupeshreddy007/Semantic-Movie-Recommendation-System-">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=Semantic-Movie-Recommendation-System-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rupeshreddy007/EduBond">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshreddy007&repo=EduBond&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</details>
-
----
 
 <div align="center">
 
-### `> neofetch --stats`
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rupeshreddy007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rupeshreddy007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-<br/><br/>
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshreddy007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshreddy007&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" width="92%" />
 
 </div>
 
@@ -168,51 +132,12 @@ philosophy: "Ship it. Then make it better."
 
 <div align="center">
 
-### `> git log --graph --oneline`
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshreddy007&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshreddy007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rupeshreddy007&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rupeshreddy007/rupeshreddy007/output/github-snake-dark.svg" width="90%" />
-
-</div>
-
----
-
-<div align="center">
-
-<br/>
-
-```
-  ____                     __              ____        _ _     _ _             
- / __ \                   / _|            |  _ \      (_) |   | (_)            
-| |  | |_ __   ___ _ __  | |_ ___  _ __  | |_) |_   _ _| | __| |_ _ __   __ _ 
-| |  | | '_ \ / _ \ '_ \ |  _/ _ \| '__| |  _ <| | | | | |/ _` | | '_ \ / _` |
-| |__| | |_) |  __/ | | || || (_) | |    | |_) | |_| | | | (_| | | | | | (_| |
- \____/| .__/ \___|_| |_||_| \___/|_|    |____/ \__,_|_|_|\__,_|_|_| |_|\__, |
-       | |                                                                __/ |
-       |_|                                                               |___/ 
-```
-
-**If something here caught your eye, let's connect.**
-
-[![GitHub](https://img.shields.io/badge/rupeshreddy007-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupeshreddy007)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rupeshreddy007&color=58a6ff&style=flat&label=profile+views" />
+</p>
