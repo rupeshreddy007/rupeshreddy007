@@ -1,106 +1,57 @@
-<div align="center">
+## Hi, I'm Rupesh Reddy
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rupesh%20Reddy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Ship&descSize=18&descAlignY=55)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=I+build+things+that+work+%F0%9F%94%A7;Python+%7C+JavaScript+%7C+Cloud+%7C+ML;Full+stack+to+full+pipeline;Open+source+contributor+%26+hackathon+builder)](https://git.io/typing-svg)
-
-</div>
+I'm a Computer Science student at **IIIT Kottayam** who enjoys building software across the stack — from web apps and ML pipelines to infrastructure automation and AI agent environments.
 
 ---
 
-### 🧠 About Me
+### About
 
-```python
-class RupeshReddy:
-    def __init__(self):
-        self.university = "IIIT Kottayam"
-        self.focus = ["Software Dev", "Machine Learning", "MLOps", "DevOps"]
-        self.languages = ["Python", "JavaScript"]
-        self.current = "Building RL environments for OpenEnv Hackathon"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together.")
-
-me = RupeshReddy()
-me.say_hi()
-```
+- Currently building **reinforcement learning environments** for the [OpenEnv Hackathon](https://github.com/rupeshreddy007/OpenEnv_hackathon)
+- Interested in **software engineering**, **machine learning**, **MLOps**, and **DevOps**
+- I like shipping end-to-end — from prototype to deployment
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
-### 🔥 What I'm Building
+### Selected Projects
 
-| Project | What it does | Tech |
-|---------|-------------|------|
-| [**OpenEnv Hackathon**](https://github.com/rupeshreddy007/OpenEnv_hackathon) | Real-world RL environments with `step()`/`reset()`/`state()` API | Python, RL |
-| [**Livepatch Env**](https://github.com/rupeshreddy007/livepatch-env) | Live patching environment for AI agent training | Python, Docker |
-| [**Merge Conflict Env**](https://github.com/rupeshreddy007/merge-conflict-env) | AI learns to resolve git merge conflicts | Python, Git |
-| [**Cyber Incident Response**](https://github.com/rupeshreddy007/openEnv_R2_Cyber_Incident_Response) | RL environment for cybersecurity incident handling | Python |
-| [**Customer Churn MLOps**](https://github.com/rupeshreddy007/customer-churn-mlops-pipeline) | End-to-end MLOps pipeline for churn prediction | Python, MLOps |
-| [**RAG over YT Transcripts**](https://github.com/rupeshreddy007/RAG-based-Conversational-AI-over-yt-Transcripts) | Conversational AI using RAG on YouTube transcripts | LLMs, RAG |
-| [**Semantic Movie Rec**](https://github.com/rupeshreddy007/Semantic-Movie-Recommendation-System-) | Meaning-based movie recommendations | Python, NLP |
-| [**EduBond**](https://github.com/rupeshreddy007/EduBond) | Education platform | JavaScript |
+| Project | Description | Stack |
+|---------|------------|-------|
+| [OpenEnv Hackathon](https://github.com/rupeshreddy007/OpenEnv_hackathon) | RL environments with `step()` / `reset()` / `state()` API for AI agent training | Python |
+| [Livepatch Env](https://github.com/rupeshreddy007/livepatch-env) | Live kernel patching environment for training AI agents | Python, Docker |
+| [Merge Conflict Env](https://github.com/rupeshreddy007/merge-conflict-env) | Environment where AI learns to resolve git merge conflicts | Python, Git |
+| [Cyber Incident Response](https://github.com/rupeshreddy007/openEnv_R2_Cyber_Incident_Response) | RL environment for cybersecurity incident handling | Python |
+| [Customer Churn MLOps](https://github.com/rupeshreddy007/customer-churn-mlops-pipeline) | End-to-end MLOps pipeline for churn prediction | Python, Jenkins |
+| [RAG over YT Transcripts](https://github.com/rupeshreddy007/RAG-based-Conversational-AI-over-yt-Transcripts) | Conversational AI using retrieval-augmented generation on YouTube content | Python, LLMs |
+| [Semantic Movie Recommendations](https://github.com/rupeshreddy007/Semantic-Movie-Recommendation-System-) | Meaning-based movie search using NLP embeddings | Python |
+| [EduBond](https://github.com/rupeshreddy007/EduBond) | Education platform for student collaboration | JavaScript, Node.js |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rupeshreddy007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rupeshreddy007&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshreddy007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rupeshreddy007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupeshreddy007&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)
-
----
-
-### 🐍 Watch my contributions get eaten
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/rupeshreddy007/rupeshreddy007/output/github-snake-dark.svg)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rupeshreddy007&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshreddy007&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
@@ -108,10 +59,12 @@ me.say_hi()
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rupeshreddy007&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-**If you like what you see, drop a ⭐ on a repo!**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rupeshreddy007&theme=default&hide_border=true" height="160" />
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rupeshreddy007&color=grey&style=flat-square&label=profile+views" />
+</p>
